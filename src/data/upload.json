@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "type": "sent",
+    "status": "active",
+    "patient_id": 2,
+    "package_name": "Test",
+    "package_description": null,
+    "package_expire": "1",
+    "deleted_at": null,
+    "updated_at": "2023-06-26T16:50:27.894961Z",
+    "created_at": "2023-06-26T16:50:27.894961Z",
+    "patient_file_package": [
+      {
+        "id": 1,
+        "deleted_at": null,
+        "updated_at": "2023-06-26T16:51:22.344198Z",
+        "created_at": "2023-06-26T16:51:22.344198Z",
+        "file_expire": 1,
+        "uploaded_file": "huddletomorrow.png",
+        "file_url_type": "png"
+      },
+      {
+        "id": 2,
+        "deleted_at": null,
+        "updated_at": "2023-06-26T16:51:50.267571Z",
+        "created_at": "2023-06-26T16:51:50.267571Z",
+        "file_expire": 1,
+        "uploaded_file": "logolight.png",
+        "file_url_type": "png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "sent",
+    "status": "active",
+    "patient_id": 2,
+    "package_name": "New Test",
+    "package_description": null,
+    "package_expire": "1",
+    "deleted_at": null,
+    "updated_at": "2023-06-26T16:54:01.358790Z",
+    "created_at": "2023-06-26T16:54:01.358790Z",
+    "patient_file_package": [
+      {
+        "id": 1,
+        "deleted_at": null,
+        "updated_at": "2023-06-26T16:54:12.116310Z",
+        "created_at": "2023-06-26T16:54:12.116310Z",
+        "file_expire": 1,
+        "uploaded_file": "citysearch.png",
+        "file_url_type": "png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "sent",
+    "status": "active",
+    "patient_id": 2,
+    "package_name": "Another Test",
+    "package_description": null,
+    "package_expire": "1",
+    "deleted_at": null,
+    "updated_at": "2023-06-26T16:54:01.358790Z",
+    "created_at": "2023-06-26T16:54:01.358790Z",
+    "patient_file_package": [
+      {
+        "id": 1,
+        "deleted_at": null,
+        "updated_at": "2023-06-26T16:54:12.116310Z",
+        "created_at": "2023-06-26T16:54:12.116310Z",
+        "file_expire": 1,
+        "uploaded_file": "citysearch2.png",
+        "file_url_type": "png"
+      },
+      {
+        "id": 2,
+        "deleted_at": null,
+        "updated_at": "2023-06-26T16:54:12.116310Z",
+        "created_at": "2023-06-26T16:54:12.116310Z",
+        "file_expire": 1,
+        "uploaded_file": "citysearch3.png",
+        "file_url_type": "png"
+      }
+    ]
+  }
+]
